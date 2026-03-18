@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "旅人のうた",
+  "base_artist": "中島みゆき",
+  "createdAt": "2026-03-18T14:59:34.853049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅人のうた",
+      "artist": "Miyuki Nakajima",
+      "has_synced": true,
+      "path": "select/01_旅人のうた_Miyuki_Nakajima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅人のうた",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_01_旅人のうた_中島_みゆき.txt"
+    }
+  ]
+}
